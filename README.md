@@ -2,4 +2,4 @@
 
 This repository is the complete code used in JScasts - Episode 7
 
-You can watch the episode here: https://youtu.be/mQ1xPGRBFAQ
+You can watch the episode here: https://youtu.be/Zg98pj5imho
